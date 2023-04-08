@@ -18,7 +18,7 @@ This web application helps students to store following details:
 
 > ## Checkout the Website [Web Application](https://habbit-tracker-1etn.onrender.com)
 >
-> ## Checkout the Application Demo Video )
+> ## Checkout the Application Demo Video (https://www.loom.com/share/0e13d94db8fc4e1f9befb4be8db8bdf8)
 
 <br/>
 
