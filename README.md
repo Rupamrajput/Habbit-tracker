@@ -16,9 +16,9 @@ This web application helps students to store following details:
 
 ## 🔗 Important Links
 
-> ## Checkout the Website [Web Application](https://habit-tracker-app-s44j.onrender.com/)
+> ## Checkout the Website [Web Application](https://habbit-tracker-1etn.onrender.com)
 >
-> ## Checkout the Application Demo Video [YouTube](https://www.youtube.com/watch?v=kSEyJI1n5dw)
+> ## Checkout the Application Demo Video )
 
 <br/>
 
